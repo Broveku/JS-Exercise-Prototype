@@ -112,7 +112,7 @@ function Airplane(name) {
     2. explicit binding, call-invokes function immediately pass arguements 1 by 1. apply- invokes immediately pass arguments as an array. bind- does NOT invoke immediately
     returns brand new function that can be invoked later, pass arguments 1 by 1.
     3. implicit binding, this applies to objects with methods which are functions that belong to an object
-    4. new binding,
+    4. new binding, using the new keyword constructs a new object
   */
   
   
